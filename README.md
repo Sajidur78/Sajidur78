@@ -12,4 +12,4 @@ I'm a software developer and a hobbyist reverse engineer.
 
 [![Sajid's github stats](https://github-readme-stats.vercel.app/api?username=Sajidur78)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="center">🔽 Public repositories</p>
+🔽 Public repositories
